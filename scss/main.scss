@@ -419,3 +419,22 @@ height: 64px;
 .link-li-ico{
   margin-left: 15px;
 }
+
+
+@media only screen and (max-width: 330px)  {
+
+
+
+  .head-one{
+    max-width: 335px;
+    padding-top: 73px;
+    background-color: #1B2330;
+    margin-top: 0;
+  }
+  .head-div1{
+    width: 331px;
+    height: 24px;
+
+  }
+
+}
